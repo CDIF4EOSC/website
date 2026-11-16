@@ -121,6 +121,17 @@
     "federation": false
   },
   {
+    "acronym": "SocioPortal",
+    "name": "SocioPortal",
+    "description": "CESSDA repository of social sciences ontologies and semantic artefacts",
+    "status": "production",
+    "federation": false,
+    "link": "https://socioportal.org/",
+    "api_url": "https://api.socioportal.org/",
+    "logo": "/images/alliance_member_logos/socioportal.png",
+    "color": "#5a2574"
+  },
+  {
     "acronym": "LovPortal",
     "name": "LovPortal",
     "description": "A gateway to reusable semantic vocabularies on the Web",
@@ -144,12 +155,5 @@
     "api_url": "https://data.chportal.culturalheritagecloud.eu",
     "logo": "/images/alliance_member_logos/chportal.png",
     "color": "#EFAF3B"
-  },
-  {
-    "acronym": "SocioPortal",
-    "name": "SocioPortal",
-    "description": "CESSDA repository of social sciences ontologies and semantic artefacts",
-    "status": "coming",
-    "federation": false
   }
 ]
