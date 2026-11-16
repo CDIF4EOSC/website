@@ -127,7 +127,7 @@
     "status": "production",
     "federation": false,
     "link": "https://socioportal.org/",
-    "api_url": "https://api.socioportal.org/",
+    "api_url": "https://api.socioportal.org",
     "logo": "/images/alliance_member_logos/socioportal.png",
     "color": "#5a2574"
   },
