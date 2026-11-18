@@ -4,7 +4,7 @@ categories:
  - News
 author_staff_member: Deirdre Lungley, Jacob Joy
 
-date: 2026-11-16
+date: 2026-11-18
 ---
 
 [SocioPortal](https://socioportal.org/) is now online! Developed by UKDS, it is a semantic artefact catalogue dedicated to the social sciences.
