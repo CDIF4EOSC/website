@@ -121,12 +121,23 @@
     "federation": false
   },
   {
+    "acronym": "CHPortal",
+    "name": "CHPortal",
+    "description": "ECHOES repository of Cultural Heritage ontologies",
+    "status": "production",
+    "federation": false,
+    "link": "https://chportal.culturalheritagecloud.eu/",
+    "api_url": "https://data.chportal.culturalheritagecloud.eu",
+    "logo": "/images/alliance_member_logos/CHPortal.png",
+    "color": "#EFAF3B"
+  },
+  {
     "acronym": "TermPortal",
     "name": "TermPortal",
-    "link": "https://portal.proyectoteresia.org/",
+    "link": "https://portal.proyectoteresia.org/metabuscador",
     "logo": "/images/alliance_member_logos/termportal.png",
     "color": "#ffffff",
-    "description": "TeresIA terminology portal with OntoLex-Lemon support, developed by UPM",
+    "description": "TeresIA terminology portal with OntoLex-Lemon support, developed by UPM and librAIry",
     "status": "production",
     "federation": false
   },
@@ -141,13 +152,6 @@
     "acronym": "HSPortal",
     "name": "HSPortal",
     "description": "The home of ontologies and semantic artefacts in Heritage Science.",
-    "status": "coming",
-    "federation": false
-  },
-  {
-    "acronym": "CHPortal",
-    "name": "CHPortal",
-    "description": "ECHOES repository of Cultural Heritage ontologies",
     "status": "coming",
     "federation": false
   },
